@@ -5,7 +5,7 @@
 
 
 
-passcode = "deio"
+passcode = ""
 
 alphabet = [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", 
     "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", 
@@ -52,3 +52,4 @@ for space in range(len(passcode)-1): #Repeat based on the number of letters in t
 
 #The above code works but there is some sort of doubling back.
             
+
